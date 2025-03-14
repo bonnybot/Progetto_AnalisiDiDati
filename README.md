@@ -44,7 +44,7 @@ Il progetto è stato sviluppato utilizzando i seguenti strumenti e librerie:
 ### **📜 Come Utilizzare il Repository**
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-username/hr-data-analysis.git
+   git clone https://github.com/tuo-username/Progetto_AnalisiDiDati.git
    ```
 2. Installa le dipendenze richieste:
    ```bash
